@@ -1,0 +1,90 @@
+import { ShoppingListData } from './types';
+
+export const shoppingListData: ShoppingListData = {
+    "Produce": [
+      "Blueberries (1 pint)",
+      "Strawberries (1 pint)",
+      "Raspberries (1 small clamshell)",
+      "Apple (1)",
+      "Pear (1)",
+      "Peach (1)",
+      "Banana (1)",
+      "Grapes (1 small bunch)",
+      "Lemons (2)",
+      "Onions (3 yellow or white, 2 red)",
+      "Garlic (2 heads)",
+      "Potatoes (2 medium Yukon Gold)",
+      "Sweet Potatoes (1 large)",
+      "Carrots (1 medium)",
+      "Celery (1 stalk)",
+      "Bell Peppers (2 red, 1 green)",
+      "Zucchini (2 medium)",
+      "Eggplant (1 medium)",
+      "Brussels Sprouts (~1 lb)",
+      "Cucumbers (2 English or 3-4 Persian)",
+      "Tomatoes (4 Roma)",
+      "Cherry Tomatoes (1 pint)",
+      "Mushrooms (8 oz cremini)",
+      "Spinach (1 large bag or clamshell, ~5-6 oz)",
+      "Kale (1 bunch)",
+      "Lettuce/Mixed Greens (1 large clamshell or 2 hearts of romaine)",
+      "Fresh Parsley (1 bunch)",
+      "Fresh Mint (1 bunch)",
+      "Fresh Basil (1 small clamshell)"
+    ],
+    "Proteins & Dairy": [
+      "Ground Turkey (1.5 lbs)",
+      "Chicken Breasts, boneless skinless (~2 lbs)",
+      "Chicken Thighs, boneless skinless (~1 lb)",
+      "Eggs (1 dozen)",
+      "Plain Greek Yogurt (1 large tub, ~32 oz)",
+      "Cottage Cheese (1 small tub, ~16 oz)",
+      "Feta Cheese (1 small block or container of crumbles)",
+      "Goat Cheese (1 small log, ~4 oz)",
+      "Mozzarella Cheese, shredded (1 bag, ~8 oz)",
+      "Mozzarella Cheese, fresh balls/bocconcini (1 container, ~8 oz)",
+      "Milk of choice (for eggs/smoothies)"
+    ],
+    "Pantry: Dry Goods & Legumes": [
+      "Rolled Oats (~1/2 cup)",
+      "Quinoa (~1 cup)",
+      "Brown Rice (~1 cup)",
+      "Pasta (~8 oz)",
+      "Brown or Green Lentils, dry (~1 cup)",
+      "Chickpeas (3 cans, 15 oz each)",
+      "White Beans (Cannellini or Navy) (2 cans, 15 oz each)",
+      "Cooked Lentils (1 can or pouch, optional for Day 7)",
+      "Breadcrumbs, panko or regular (~1/2 cup)",
+      "Chia Seeds",
+      "Ground Flaxseed"
+    ],
+    "Pantry: Oils, Condiments & Sauces": [
+      "Extra Virgin Olive Oil",
+      "Sunflower Seed Butter",
+      "Hummus",
+      "Tzatziki",
+      "Tahini Sauce",
+      "Honey",
+      "Maple Syrup",
+      "Marinara Sauce (~2.5 cups total)",
+      "Tomato Sauce (~1/2 cup)",
+      "Diced Tomatoes (1 can, 15 oz)",
+      "Kalamata Olives (1 jar)",
+      "Broth (Vegetable or Chicken, 1 carton, 32 oz)"
+    ],
+    "Pantry: Spices & Seasonings": [
+      "Salt (Kosher or Sea Salt)",
+      "Black Peppercorns (for grinding)",
+      "Dried Oregano",
+      "Italian Herb Blend",
+      "Garlic Powder",
+      "Paprika (smoked recommended)",
+      "Ground Cinnamon",
+      "Dried Thyme",
+      "Red Pepper Flakes (optional)"
+    ],
+    "Other Items": [
+      "Store-bought Falafel (1 package)",
+      "Whole-grain Tortillas/Wraps"
+    ]
+  };
